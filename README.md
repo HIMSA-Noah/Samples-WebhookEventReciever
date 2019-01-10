@@ -1,6 +1,8 @@
 # Samples-WebhookEventReciever
 Sample application for receiving webhook events from Noah
 
+The sample application is implemented in .Net Core using Visual Studio 2017.
+
 The sample application consists of the following parts:
 *	WebHook endpoint – The webhook endpoint is the Http endpoint that receives the events from Noah. The WebHook endpoint simple receives events and forwards the message to a queue for processing.
 *	Queue – Events received by the webhook endpoint are added to a internal queue. The sample application has a simple implementation of a INoahQueue interface with a memory queue. NB!: You must replace the queue implemetation with your preferred queue implementation – the memory queue is not suited for usage in a production environment.
