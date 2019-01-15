@@ -42,7 +42,18 @@ namespace Himsa.Samples.AzureStorageQueueProvider
 
         public NoahEvent Dequeue()
         {
-            throw new NotImplementedException();
+            CloudQueueMessage retrievedMessage = _queue.GetMessage();
+
+            if (retrievedMessage != null)
+            {
+                NoahEvent noahEvent = JsonConvert.DeserializeObject<NoahEvent>(retrievedMessage.AsString);
+
+                _queue.DeleteMessage(retrievedMessage);
+
+                return noahEvent;
+            }
+
+            return null;
         }
     }
 }
