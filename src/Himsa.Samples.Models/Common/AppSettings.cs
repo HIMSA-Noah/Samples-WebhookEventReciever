@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text;
 
-namespace Himsa.Samples.WebHookEventReciever
+namespace Himsa.Samples.Models.Common
 {
     public class AppSettings
     {
         public string WebHookOrigin { get; set; }
 
         public string WebHookSharedSecret { get; set; }
+
+        public AzureStorageQueueOptions AzureStorageQueueOptions { get; set; }
     }
 }

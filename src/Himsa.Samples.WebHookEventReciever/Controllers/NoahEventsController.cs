@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Himsa.Samples.Models;
+using Himsa.Samples.Models.Common;
 using Himsa.Samples.Models.Interface;
 using Himsa.Samples.NoahEventProcessor;
 

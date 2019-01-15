@@ -14,6 +14,7 @@ using Serilog;
 using Serilog.Exceptions;
 using Serilog.Events;
 using Himsa.Samples.Models.Interface;
+using Himsa.Samples.Models.Common;
 using Himsa.Samples.MemoryQueueProvider;
 using Himsa.Samples.AzureStorageQueueProvider;
 using Himsa.Samples.ConsolNoahEventHandler;

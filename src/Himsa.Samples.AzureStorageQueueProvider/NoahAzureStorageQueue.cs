@@ -1,19 +1,43 @@
-﻿using Himsa.Samples.Models;
+﻿using System;
+using Microsoft.Extensions.Options;
+using Microsoft.Azure;
+using Microsoft.WindowsAzure.Storage.Queue;
+using Himsa.Samples.Models;
+using Himsa.Samples.Models.Common;
 using Himsa.Samples.Models.Interface;
-using System;
+using Microsoft.WindowsAzure.Storage;
+using Newtonsoft.Json;
 
 namespace Himsa.Samples.AzureStorageQueueProvider
 {
     public class NoahAzureStorageQueue : INoahEventQueue
     {
-        
-        public NoahAzureStorageQueue()
+        protected CloudStorageAccount _storageAccount;
+        protected CloudQueueClient _queueClient;
+        protected CloudQueue _queue;
+
+        private readonly AppSettings _settings;
+
+        public NoahAzureStorageQueue(IOptions<AppSettings> options)
         {
+            _settings = options.Value;
+
+            _storageAccount = CloudStorageAccount.Parse(_settings.AzureStorageQueueOptions.AzureStorageConectionString);
+            _queueClient = _storageAccount.CreateCloudQueueClient();
+            _queue = _queueClient.GetQueueReference(_settings.AzureStorageQueueOptions.QueueName);
+
+            // Create the queue if it doesn't already exist.
+            _queue.CreateIfNotExists();
         }
 
         public void Enqueue(NoahEvent noahEvent)
         {
-            throw new NotImplementedException();
+            var messageBody = JsonConvert.SerializeObject(noahEvent); 
+
+            CloudQueueMessage message = new CloudQueueMessage(messageBody);
+            _queue.AddMessage(message);
+
+            //throw new NotImplementedException();
         }
 
         public NoahEvent Dequeue()

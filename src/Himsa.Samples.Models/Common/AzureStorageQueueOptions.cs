@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Himsa.Samples.AzureStorageQueueProvider
+namespace Himsa.Samples.Models.Common
 {
     public class AzureStorageQueueOptions
     {
