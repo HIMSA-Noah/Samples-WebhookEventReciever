@@ -11,8 +11,11 @@ Adding a internal queue allows the WebHook endpoint to accept requests, without 
 
 ## Setting up the Azure Storage Queue Provider
 If you download the source code to start working with the Webhook receiver locally it is setup with a MemoryQueueProvider for the internal queue in the event receiver.
-MemoryQueueProvider is not a persistent queue and is only usable for development and test.
+
+The MemoryQueueProvider is not a persistent queue and is only usable for development and test.
+
 As part of the sample we have also created a AzureStorageQueueProvider that use the Azure Storage Queue Service.
+
 Before you can use the AzureStorageQueueProvider you will need to setup a Azure Storage Account and copy the Storage Account Credentials to the AppSettings.json file in the Webhook solution.
 
 ### Copy Azure Storage credentials from the Azure portal
