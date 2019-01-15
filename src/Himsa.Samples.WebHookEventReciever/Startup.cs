@@ -15,6 +15,7 @@ using Serilog.Exceptions;
 using Serilog.Events;
 using Himsa.Samples.Models.Interface;
 using Himsa.Samples.MemoryQueueProvider;
+using Himsa.Samples.AzureStorageQueueProvider;
 using Himsa.Samples.ConsolNoahEventHandler;
 using Himsa.Samples.NoahEventProcessor;
 
@@ -55,7 +56,12 @@ namespace Himsa.Samples.WebHookEventReciever
             services.Configure<AppSettings>(configurationSection);
 
             // Register the Services
+
+            // The NoahMemoryQueue is ONLY usable for development, use the AzureStorageQueue provider for real systems or implement another Queue Provider
             services.AddSingleton<INoahEventQueue, NoahMemoryQueue>();
+
+            //services.AddSingleton<INoahEventQueue, NoahAzureStorageQueue>();
+
             services.AddSingleton<INoahEventHandler, ConsoleEventHandler>();
             services.AddSingleton<INoahEventProcessor, NoahEventProcessor.NoahEventProcessor>();
         }

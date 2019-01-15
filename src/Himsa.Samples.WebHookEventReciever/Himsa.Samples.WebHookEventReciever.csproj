@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Himsa.Samples.AzureStorageQueueProvider\Himsa.Samples.AzureStorageQueueProvider.csproj" />
     <ProjectReference Include="..\Himsa.Samples.ConsolNoahEventHandler\Himsa.Samples.ConsoleNoahEventHandler.csproj" />
     <ProjectReference Include="..\Himsa.Samples.MemoryQueueProvider\Himsa.Samples.MemoryQueueProvider.csproj" />
     <ProjectReference Include="..\Himsa.Samples.Models\Himsa.Samples.Models.csproj" />
