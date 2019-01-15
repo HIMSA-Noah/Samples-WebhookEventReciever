@@ -1,0 +1,12 @@
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\bin\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.deps.json
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\bin\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\bin\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.csprojAssemblyReference.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.csproj.CoreCompileInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.AssemblyInfoInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.AssemblyInfo.cs
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.csproj.CopyComplete
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.ConsolNoahEventHandler\obj\Debug\netcoreapp2.1\Himsa.Samples.ConsoleNoahEventHandler.pdb

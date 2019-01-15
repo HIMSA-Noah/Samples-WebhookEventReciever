@@ -1,0 +1,12 @@
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\bin\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.deps.json
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\bin\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\bin\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.csprojAssemblyReference.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.csproj.CoreCompileInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.AssemblyInfoInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.AssemblyInfo.cs
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.csproj.CopyComplete
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.NoahEventProcessor\obj\Debug\netcoreapp2.1\Himsa.Samples.NoahEventProcessor.pdb

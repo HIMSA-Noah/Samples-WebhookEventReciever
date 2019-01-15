@@ -1,0 +1,9 @@
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.deps.json
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\obj\Debug\netcoreapp2.1\Himsa.Samples.Models.csprojAssemblyReference.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\obj\Debug\netcoreapp2.1\Himsa.Samples.Models.csproj.CoreCompileInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\obj\Debug\netcoreapp2.1\Himsa.Samples.Models.AssemblyInfoInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\obj\Debug\netcoreapp2.1\Himsa.Samples.Models.AssemblyInfo.cs
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\obj\Debug\netcoreapp2.1\Himsa.Samples.Models.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.Models\obj\Debug\netcoreapp2.1\Himsa.Samples.Models.pdb

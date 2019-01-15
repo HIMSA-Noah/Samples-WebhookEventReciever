@@ -1,0 +1,14 @@
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.deps.json
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.runtimeconfig.json
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.runtimeconfig.dev.json
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.Models.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.csprojAssemblyReference.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.csproj.CoreCompileInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.AssemblyInfoInputs.cache
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.AssemblyInfo.cs
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.csproj.CopyComplete
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\bin\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.pdb
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.dll
+C:\Himsa_Samples\WebHookEventReciever\Himsa.Samples.WebHookEventReciever\Himsa.Samples.TestConsole\obj\Debug\netcoreapp2.1\Himsa.Samples.TestConsole.pdb
